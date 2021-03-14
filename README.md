@@ -440,6 +440,7 @@ For documentation on the latest development code see the [documentation index][d
 * [logz.io](./plugins/outputs/logzio)
 * [mqtt](./plugins/outputs/mqtt)
 * [nats](./plugins/outputs/nats)
+* [stan](./plugins/outputs/stan)
 * [newrelic](./plugins/outputs/newrelic)
 * [nsq](./plugins/outputs/nsq)
 * [opentsdb](./plugins/outputs/opentsdb)
